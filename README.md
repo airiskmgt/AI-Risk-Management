@@ -1,6 +1,7 @@
-![AI Risk Management](https://media-exp2.licdn.com/dms/image/C5616AQHvwqh1Y29Rsg/profile-displaybackgroundimage-shrink_350_1400/0/1657134648528?e=1663804800&v=beta&t=pBW1f5UAAv34K-k8r51zQLG_k1qz_asXGREEepK9rPc)
+![AI Risk Management in Practice](https://media-exp2.licdn.com/dms/image/C5616AQHvwqh1Y29Rsg/profile-displaybackgroundimage-shrink_350_1400/0/1657134648528?e=1663804800&v=beta&t=pBW1f5UAAv34K-k8r51zQLG_k1qz_asXGREEepK9rPc)
 # AI Risk Management
-As the field of AI Risk Management grows, we will collate and share resources and links pertaining to AI Risk Management, including the daily newsletter, the AI Risk Management book, the AI and ML Risk Certification program and other learning resources.
+As the field of AI Risk Management grows, there has been increased interest in understanding how to adopt AI and ML methods responsbibly in the industry. While there are many publications, discussions and resources in the research and policy arena, bringing these to practice has been a challenge for many practioners in the industry. In this work, we will focus on the various methods, tools, approaches and techniques pertaining to to adoption of AI Risk Management in practice.
+We will collate and share resources and links pertaining to AI Risk Management, including the daily newsletter, the AI Risk Management book, the AI and ML Risk Certification program and other learning resources.
 
 # [AI Risk Management News Letter](https://github.com/airiskmgt/AI-Risk-Management/blob/main/AI-Risk-Newsletter.md)
 In July 2022, QuantUniverity launched the AI Risk Management News Letter news letter on Linkedin. :
