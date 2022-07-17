@@ -14,15 +14,15 @@ In July 2022, [QuantUniversity](https://www.quantuniversity.com) launched the AI
  **Edition 7: [Week 1 Summary](https://www.linkedin.com/pulse/ai-risk-management-newsletter-week-1-summary-krishnamurthy-cfa-cap/) </br>**
 
 ## Week 2: How to conduct AI Risk Assessments ?  
- **8. AI Risk Assessments: An introduction *coming soon* </br>**
- **9. Elements of an AI Risk Assessment *coming soon* </br>**
- **10. Scoping an AI Risk Assessment *coming soon* </br>**
- **11. How to do an AI Risk Assessment? *coming soon* </br>**
- **12. Practioner best practices for AI Risk Assessments *coming soon* </br>**
- **13. Week 2 Summary *coming soon* </br>**
+ **Edition 8. AI Risk Assessments: An introduction *coming soon* </br>**
+ **Edition 9. Elements of an AI Risk Assessment *coming soon* </br>**
+ **Edition 10. Scoping an AI Risk Assessment *coming soon* </br>**
+ **Edition 11. How to do an AI Risk Assessment? *coming soon* </br>**
+ **Edition 12. Practioner best practices for AI Risk Assessments *coming soon* </br>**
+ **Edition 13. Week 2 Summary *coming soon* </br>**
  
  ## Want to get alerted whenever there is an update?
  Subscribe for the AI Risk Management Newsletter 👉[here](https://www.linkedin.com/newsletters/ai-risk-management-newsletter-6951868127286636544/)
  
  ## AI Risk Management Resources Page
- Learn about upcoming events, book, guest lectures and upcoming courses offered through QuantUniversity 👉[here](https://github.com/airiskmgt/AI-Risk-Management/blob/main/README.md) 
+ Learn about [upcoming courses and certification programs](https://quantuniversity.com) on AI and Risk Management offered through QuantUniversity, the [AI Risk Management book](https://www.airiskmgt.com), [guest lectures](https://quantuniversity.com/lectures.html) offered through QuantUniversity and many [FREE learning resources](https://academy.qusandbox.com/register) 👉[here](https://github.com/airiskmgt/AI-Risk-Management/blob/main/README.md) 
