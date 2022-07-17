@@ -2,15 +2,16 @@
 # AI Risk Management
 As the field of AI Risk Management grows, we will collate and share resources and links pertaining to AI Risk Management, including the daily newsletter.
 
-# AI Risk Management News Letter
-In July 2022, QuantUniverity launched the AI Risk Management News Letter news letter on Linkedin. Subscribe for the AI Risk Management Newsletter here:
-## Week 1 : Algorithmic Audits
-   - First nested list item
-   - Second nested list item
-## Week 2: AI Risk Assessments  
+# [AI Risk Management News Letter](https://github.com/airiskmgt/AI-Risk-Management/blob/main/AI-Risk-Newsletter.md)
+In July 2022, QuantUniverity launched the AI Risk Management News Letter news letter on Linkedin. :
+- [Week 1 : Algorithmic Audits](https://github.com/airiskmgt/AI-Risk-Management/blob/main/AI-Risk-Newsletter.md#week-1--what-are-algorithmic-audits-)
+- [Week 2: AI Risk Assessments](https://github.com/airiskmgt/AI-Risk-Management/blob/main/AI-Risk-Newsletter.md#week-2-how-to-conduct-ai-risk-assessments-)
 
-# Coming in 2023! AI Risk Management Book
-In 2023, we will be publishing the industry's first book on AI Risk Management published by Wiley
+Bookmark this page 👉[here](https://github.com/airiskmgt/AI-Risk-Management/blob/main/AI-Risk-Newsletter.md). </br>
+Subscribe 👉[here](https://github.com/airiskmgt/AI-Risk-Management/blob/main/AI-Risk-Newsletter.md) to be alerted when a new edition comes out
+
+# Coming in 2023! [AI Risk Management Book](https://www.airiskmgt.com)
+<p align="center"><img src="https://media-exp2.licdn.com/dms/image/C4E22AQHWsKm2cJ882Q/feedshare-shrink_2048_1536/0/1658097277408?e=1660780800&v=beta&t=Fg3TMnT7MrYEbSGKOTlMUgyqaS8KoSYzKBHErv01gRI" width="600"></p> </br>
 
 ## Highlights
 ✅The First Pragmatic Guide to Comprehensive AI Risk Management. </br>
@@ -20,11 +21,13 @@ In 2023, we will be publishing the industry's first book on AI Risk Management p
 ✅A must-have handbook leveraging insights drawn from [QuantUniversity's AI Risk Management Certificate program](https://github.com/airiskmgt/AI-Risk-Management/edit/main/README.md#ai-risk-management-certification-program). </br>
 ✅Examples and templates to operationalize AI Risk Management in the industry. </br>
 
+Bookmark this page for chapter updates 👉[here](https://www.airiskmgt.com)
+
  
-# AI Risk Management Certification program
-<img src="https://quantuniversity.com/assets/img/machine-learning-AI-risk-certificate-program-process.png" width="600"> </br>
-Join QuantUniversity for the industry's first Machine Learning and AI Risk Certificate program geared towards the financial services industry.
-Details and registration 👉 <a href="https://quantuniversity.com/course-details/mlrisk.html" target="_blank">here</a>
+# [AI Risk Management Certification program](https://www.quantuniversity.com/course-details/mlrisk.html)
+<p align="center"><img src="https://quantuniversity.com/assets/img/machine-learning-AI-risk-certificate-program-process.png" width="600"></p></br>
+Join QuantUniversity for the industry's first Machine Learning and AI Risk Certificate program geared towards the financial services industry. Partnering with <a href="https://www.prmia.org" target="_blank">Professional Risk Managers' International Association(PRMIA)</a> QuantUniversity has designed a 6-module online, on-demand program geared towards working professionals interested in upskilling themselves on AI and ML related risks and how to manage them</br>
+**Details and registration** 👉 <a href="https://quantuniversity.com/course-details/mlrisk.html" target="_blank">here</a>
 
 ## Courses:
 
@@ -33,6 +36,7 @@ Details and registration 👉 <a href="https://quantuniversity.com/course-detail
 3. Model Risk Management for Machine Learning Models
 4. Stress Testing and Scenario Testing for Machine Learning Models
 5. Algorithmic Auditing for Machine Learning Models
+6. Guided Capstone project
 
 ## Features:
 
@@ -40,5 +44,6 @@ Details and registration 👉 <a href="https://quantuniversity.com/course-detail
 - QuSandbox Templates so you can use them for your workplace
 - More than 60 hours of instruction and labs
 - Guest lectures and Industry Case studies
+- Capstone project
 - Assessment and Certification
 
