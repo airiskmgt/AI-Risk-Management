@@ -7,11 +7,11 @@ In July 2022, [QuantUniversity](https://www.quantuniversity.com) launched the AI
 ## Week 1 : What are Algorithmic Audits ?
  **Edition 1: [How to teach Model Validation and testing APIs when models are Deployed-as-a-service ?](https://www.linkedin.com/pulse/ai-risk-management-practice-how-teach-model-testing-sri/) </br>**
  **Edition 2: [Algorithmic Audits](https://www.linkedin.com/pulse/ai-risk-management-practice-sri-krishnamurthy-cfa-cap/) </br>**
- **Edition 3: [How to teach Model Validation and testing APIs when models are Deployed-as-a-service ?](https://www.linkedin.com/pulse/ai-risk-management-practice-how-teach-model-testing-sri/) </br>**
- **Edition 4: [How to teach Model Validation and testing APIs when models are Deployed-as-a-service ?](https://www.linkedin.com/pulse/ai-risk-management-practice-how-teach-model-testing-sri/) </br>**
- **Edition 5: [How to teach Model Validation and testing APIs when models are Deployed-as-a-service ?](https://www.linkedin.com/pulse/ai-risk-management-practice-how-teach-model-testing-sri/) </br>**
- **Edition 6: [How to teach Model Validation and testing APIs when models are Deployed-as-a-service ?](https://www.linkedin.com/pulse/ai-risk-management-practice-how-teach-model-testing-sri/) </br>**
- **Edition 7: [How to teach Model Validation and testing APIs when models are Deployed-as-a-service ?](https://www.linkedin.com/pulse/ai-risk-management-practice-how-teach-model-testing-sri/) </br>**
+ **Edition 3: [Why Algorithmic Audits](https://www.linkedin.com/pulse/why-algorithmic-audits-sri-krishnamurthy-cfa-cap/) </br>**
+ **Edition 4: [Scoping an Algorithmic Audit](https://www.linkedin.com/pulse/pragmatic-algorithmic-risk-management-scoping-sri/?trackingId=ybMq2KH%2BRq%2BZd2irdIcZhQ%3D%3D) </br>**
+ **Edition 5: [Algorithmic Assessments: Benchmarking](https://www.linkedin.com/pulse/ai-risk-management-practice-benchmarking-sri-krishnamurthy-cfa-cap/) </br>**
+ **Edition 6: [Conformance Assessments](https://www.linkedin.com/pulse/ai-risk-management-practice-conformance-assessments-sri/) </br>**
+ **Edition 7: [Week 1 Summary](https://www.linkedin.com/pulse/ai-risk-management-newsletter-week-1-summary-krishnamurthy-cfa-cap/) </br>**
 
 ## Week 2: How to conduct AI Risk Assessments ?  
  **8. AI Risk Assessments: An introduction *coming soon* </br>**
@@ -19,9 +19,10 @@ In July 2022, [QuantUniversity](https://www.quantuniversity.com) launched the AI
  **10. Scoping an AI Risk Assessment *coming soon* </br>**
  **11. How to do an AI Risk Assessment? *coming soon* </br>**
  **12. Practioner best practices for AI Risk Assessments *coming soon* </br>**
+ **13. Week 2 Summary *coming soon* </br>**
  
  ## Want to get alerted whenever there is an update?
  Subscribe for the AI Risk Management Newsletter 👉[here](https://www.linkedin.com/newsletters/ai-risk-management-newsletter-6951868127286636544/)
  
- ## AI Risk Management Resource Page
- Learn about upcoming events, book, guest lectures and upcoming courses
+ ## AI Risk Management Resources Page
+ Learn about upcoming events, book, guest lectures and upcoming courses offered through QuantUniversity 👉[here](https://github.com/airiskmgt/AI-Risk-Management/blob/main/README.md) 
