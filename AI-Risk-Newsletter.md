@@ -14,7 +14,7 @@ In July 2022, [QuantUniversity](https://www.quantuniversity.com) launched the AI
  **Edition 7: [Week 1 Summary](https://www.linkedin.com/pulse/ai-risk-management-newsletter-week-1-summary-krishnamurthy-cfa-cap/) </br>**
 
 ## Week 2: How to conduct AI Risk Assessments ?  
- **Edition 8. AI Risk: An introduction *coming soon* </br>**
+ **Edition 8. [Framing AI Risk: An introduction](https://www.linkedin.com/pulse/ai-risk-management-practice-framing-sri-krishnamurthy-cfa-cap/?trackingId=VphaS9zPSCOhjgalORe6LQ%3D%3D)</br>**
  **Edition 9. Elements of an AI Risk Assessment *coming soon* </br>**
  **Edition 10. Scoping an AI Risk Assessment *coming soon* </br>**
  **Edition 11. How to do an AI Risk Assessment? *coming soon* </br>**
