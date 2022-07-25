@@ -28,7 +28,7 @@ In July 2022, [QuantUniversity](https://www.quantuniversity.com) launched the AI
  **Edition 17. Best practices in Process risk assessments *Coming soon*</br>**
  
  ## Want to get alerted whenever there is an update?
- Subscribe for the AI Risk Management Newsletter and join the 2500+ community 👉[here](https://www.linkedin.com/newsletters/ai-risk-management-newsletter-6951868127286636544/)
+ Subscribe for the AI Risk Management Newsletter and join the 2700+ community 👉[here](https://www.linkedin.com/newsletters/ai-risk-management-newsletter-6951868127286636544/)
  
  ## AI Risk Management Resources Page
  Learn about [upcoming courses and certification programs](https://quantuniversity.com) on AI and Risk Management offered through QuantUniversity, the [AI Risk Management book](https://www.airiskmgt.com), [guest lectures](https://quantuniversity.com/lectures.html) offered through QuantUniversity and many [FREE learning resources](https://academy.qusandbox.com/register) 👉[here](https://github.com/airiskmgt/AI-Risk-Management/blob/main/README.md) 
