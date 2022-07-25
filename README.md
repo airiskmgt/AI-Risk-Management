@@ -12,7 +12,7 @@ In July 2022, QuantUniverity launched the AI Risk Management News Letter news le
 Subscribe 👉[here](https://github.com/airiskmgt/AI-Risk-Management/blob/main/AI-Risk-Newsletter.md) to be alerted when a new edition comes out
 
 # Coming in 2023! [AI Risk Management Book](https://www.airiskmgt.com)
-<p align="center"><img src="https://media-exp2.licdn.com/dms/image/C4E22AQHWsKm2cJ882Q/feedshare-shrink_2048_1536/0/1658097277408?e=1660780800&v=beta&t=Fg3TMnT7MrYEbSGKOTlMUgyqaS8KoSYzKBHErv01gRI" width="600"></p> </br>
+<p align="center"><img src="https://media-exp1.licdn.com/dms/image/C5622AQFIuHE6_hfyvw/feedshare-shrink_2048_1536/0/1657135765653?e=1661385600&v=beta&t=Yf2pQopCZp0uMfigKs8iozRWXmL8_NxCgnQzSKFDJN0" width="600"></p> </br>
 
 ## Highlights
 ✅The First Pragmatic Guide to Comprehensive AI Risk Management. </br>
