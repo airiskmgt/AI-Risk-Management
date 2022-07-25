@@ -7,6 +7,7 @@ We will collate and share resources and links pertaining to AI Risk Management, 
 In July 2022, QuantUniverity launched the AI Risk Management News Letter news letter on Linkedin. :
 - [Week 1 : Algorithmic Audits](https://github.com/airiskmgt/AI-Risk-Management/blob/main/AI-Risk-Newsletter.md#week-1--what-are-algorithmic-audits-)
 - [Week 2: AI Risk Assessments](https://github.com/airiskmgt/AI-Risk-Management/blob/main/AI-Risk-Newsletter.md#week-2-how-to-conduct-ai-risk-assessments-)
+- [Week 3: AI Process Risk in Focus](https://github.com/airiskmgt/AI-Risk-Management/blob/main/AI-Risk-Newsletter.md#week-3-ai-process-risk)
 
 Subscribe 👉[here](https://github.com/airiskmgt/AI-Risk-Management/blob/main/AI-Risk-Newsletter.md) to be alerted when a new edition comes out
 
