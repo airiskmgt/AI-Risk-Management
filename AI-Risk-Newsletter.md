@@ -21,7 +21,7 @@ In July 2022, [QuantUniversity](https://www.quantuniversity.com) launched the AI
  **Edition 12. [Practioner best practices for AI Risk Assessments](https://www.linkedin.com/pulse/best-practices-ai-risk-assessments-sri-krishnamurthy-cfa-cap/)</br>**
  
  ## Week 3: AI Process Risk
- **Edition 13. [AI Process Risk in Focus](https://www.linkedin.com/pulse/ai-process-risk-focus-sri-krishnamurthy-cfa-cap/?trackingId=nUhLHuCrThqb8gdylNq9ww%3D%3D) *Coming soon*</br>**
+ **Edition 13. [AI Process Risk in Focus](https://www.linkedin.com/pulse/ai-process-risk-focus-sri-krishnamurthy-cfa-cap/?trackingId=nUhLHuCrThqb8gdylNq9ww%3D%3D)</br>**
  **Edition 14. Drivers for AI Process Risk *Coming soon*</br>**
  **Edition 15. Scoping AI Process Risk Assessments *Coming soon*</br>**
  **Edition 16. How to do AI Process Risk assessments? *Coming soon*</br>**
