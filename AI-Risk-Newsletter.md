@@ -27,8 +27,10 @@ In July 2022, [QuantUniversity](https://www.quantuniversity.com) launched the AI
  **Edition 16. [How to do AI Process Risk assessments?](https://www.linkedin.com/pulse/how-do-ai-process-risk-assessments-sri-krishnamurthy-cfa-cap/)</br>**
  **Edition 17. [Best practices in Process risk assessments](https://www.linkedin.com/pulse/best-practices-ai-process-risk-assessments-krishnamurthy-cfa-cap/)</br>**
  
-  ## Week 4: Use cases in AI Risk
+  ## Week 4: Context in Algorithmic Risk Assessments
  **Edition 18. [The Role of Context in assessing AI Risk](https://www.linkedin.com/pulse/role-context-assessing-ai-risk-sri-krishnamurthy-cfa-cap/)</br>**
+ **Edition 19. [Algorithmic assessments with context in mind](https://www.linkedin.com/pulse/role-context-assessing-ai-risk-sri-krishnamurthy-cfa-cap/)</br>**
+ **Edition 20. [Algorithmic assessments- A case study](https://www.linkedin.com/pulse/algorithmic-assessments-case-study-sri-krishnamurthy-cfa-cap)</br>**
  
  ## Want to get alerted whenever there is an update?
  Subscribe for the AI Risk Management Newsletter and join the 2700+ community 👉[here](https://www.linkedin.com/newsletters/ai-risk-management-newsletter-6951868127286636544/)
