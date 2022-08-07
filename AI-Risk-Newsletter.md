@@ -32,7 +32,7 @@ In July 2022, [QuantUniversity](https://www.quantuniversity.com) launched the AI
  **Edition 19. [Algorithmic assessments with context in mind](https://www.linkedin.com/pulse/role-context-assessing-ai-risk-sri-krishnamurthy-cfa-cap/)</br>**
  **Edition 20. [Algorithmic assessments- A case study](https://www.linkedin.com/pulse/algorithmic-assessments-case-study-sri-krishnamurthy-cfa-cap)</br>**
  **Edition 21. [Algorithmic assessments Case study - The Framework](https://www.linkedin.com/pulse/algorithmic-assessments-case-study-framework-sri/)</br>**
- **Edition 22. [Defining the purview of an Algorithmic Assessment – Data]([https://www.linkedin.com/pulse/algorithmic-assessments-case-study-sri-krishnamurthy-cfa-cap](https://www.linkedin.com/pulse/defining-purview-algorithmic-assessment-data-krishnamurthy-cfa-cap)</br>**
+ **Edition 22. [Defining the purview of an Algorithmic Assessment – Data](https://www.linkedin.com/pulse/defining-purview-algorithmic-assessment-data-krishnamurthy-cfa-cap)</br>**
  
  ## Want to get alerted whenever there is an update?
  Subscribe for the AI Risk Management Newsletter and join the 2900+ community 👉[here](https://www.linkedin.com/newsletters/ai-risk-management-newsletter-6951868127286636544/)
