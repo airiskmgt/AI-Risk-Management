@@ -9,6 +9,7 @@ In July 2022, QuantUniverity launched the AI Risk Management News Letter news le
 - [Week 2: AI Risk Assessments](https://github.com/airiskmgt/AI-Risk-Management/blob/main/AI-Risk-Newsletter.md#week-2-how-to-conduct-ai-risk-assessments-)
 - [Week 3: AI Process Risk in Focus](https://github.com/airiskmgt/AI-Risk-Management/blob/main/AI-Risk-Newsletter.md#week-3-ai-process-risk)
 - [Week 4: Context in Algorithmic Risk Assessments](https://github.com/airiskmgt/AI-Risk-Management/blob/main/AI-Risk-Newsletter.md#week-4-context-in-algorithmic-risk-assessments)
+- [Week 5,6: Defining the purview of Algorithmic Assessments](https://github.com/airiskmgt/AI-Risk-Management/blob/main/AI-Risk-Newsletter.md#week-56-defining-the-purview-of-an-algorithmic-assessment)
 
 Subscribe 👉[here](https://github.com/airiskmgt/AI-Risk-Management/blob/main/AI-Risk-Newsletter.md) to be alerted when a new edition comes out
 
